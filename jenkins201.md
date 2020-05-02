@@ -6,11 +6,13 @@
 docker run -d -p 8082:8080 --name jenkins2 jenkins/jenkins:lts
 ```
 
-Browse to <http://localhost:8082> & sign in
-
 ```bash
 docker logs jenkins2
 ```
+
+Copy the initial admin password from the console logs to paste it when prompted
+
+Browse to <http://localhost:8082> & sign in
 
 ## Finish the Jenkins setup
 
