@@ -61,9 +61,9 @@ Click _Install suggested plugins_:
 - _Help_: Provide information on which plugin provides the functionality
 
 
-## Add Build Step - Execute Shell
+## Add Build 2 build Steps - Execute Shell
 
-- python3 sum.py
+- python sum.py
 
-- python3 fact.py
+- python fact.py
 
