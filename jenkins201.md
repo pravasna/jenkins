@@ -59,3 +59,11 @@ Click _Install suggested plugins_:
 - _Help_: Icons on the right provides additional information on the usage of the functionality
 
 - _Help_: Provide information on which plugin provides the functionality
+
+
+## Add Build Step - Execute Shell
+
+- python3 sum.py
+
+- python3 fact.py
+
